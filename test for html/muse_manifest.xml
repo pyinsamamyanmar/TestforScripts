@@ -1,0 +1,32 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="247rocki.bet" resolutions="1x" timestamp="1498544151357">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="486130565" ref="untitled-2:index"/>
+    <file name="untitled-2.css" crc="192574878" ref="untitled-2"/>
+    <file name="index.css" crc="130580372" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="ymp_site_under_construction_by_asskick.jpg" crc="2506274" seo="true" mt="1498500224000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="163421577" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="168988563" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:untitled-2"/>
+    <file name="require.js" crc="244322403" ref="index:untitled-2"/>
+    <file name="webpro.js" crc="3848665353" ref="index:untitled-2"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:untitled-2"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:untitled-2"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:untitled-2"/>
+  </folder>
+  <folder name="images">
+    <file name="ymp_site_under_construction_by_asskick.jpg" crc="2506274" seo="true" ref="index:untitled-2"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="page_under_construction.jpg" crc="4127679564" seo="true" ref="index:untitled-2"/>
+    <file name="cactus.jpg" crc="3870647156" seo="true" ref="index:untitled-2"/>
+    <file name="trees.jpg" crc="97703958" seo="true" ref="index:untitled-2"/>
+  </folder>
+  <file name="index.html" crc="288527132" seo="true" mt="1498501650315" redirect="true"/>
+  <file name="untitled-2.html" crc="4237443721" seo="true" mt="1498501650315" redirect="true"/>
+</manifest>
