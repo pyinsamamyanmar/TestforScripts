@@ -1,0 +1,131 @@
+<html class="nojs html css_verticalspacer" lang="en-US">
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2017.0.0.363"/>
+  
+  <script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <title>Home</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4238679997" id="pagesheet"/>
+   </head>
+ <body class="museBGSize">
+
+  <div class="clearfix" id="page"><!-- group -->
+   <div class="clearfix grpelem" id="pu107"><!-- group -->
+    <div class="size_fixed mse_pre_init" id="u107"><!-- custom html -->
+     
+<div class="g-plusone" data-action="share" data-size="medium" data-annotation="inline" data-width="411" data-href="http://www.adobe.com/products/muse.html"></div>
+
+    </div>
+    <div class="SlideShowWidget clearfix HeroFillFrame grpelem" id="slideshowu112"><!-- none box -->
+     &nbsp;
+     <div class="popup_anchor" id="u129popup">
+      <div class="SlideShowContentPanel clearfix fullscreen" id="u129"><!-- stack box -->
+       <div class="SSSlide clip_frame fullscreen" id="u134"><!-- image -->
+        <img class="ImageInclude" id="u134_img" data-src="images/247p642017nba(cavsvswarriors).jpg?crc=384369285" src="images/blank.gif?crc=4208392903" alt="" data-width="1468" data-height="768"/>
+       </div>
+       <div class="SSSlide invi clip_frame fullscreen" id="u255"><!-- image -->
+        <img class="ImageInclude" id="u255_img" data-src="images/247p20170518(chivovsroma).jpg?crc=373250104" src="images/blank.gif?crc=4208392903" alt="" data-width="1468" data-height="768"/>
+       </div>
+       <div class="SSSlide invi clip_frame fullscreen" id="u281"><!-- image -->
+        <img class="ImageInclude" id="u281_img" data-src="images/247p20170522(costa%20rica%20vs%20portugalu20%20cup).jpg?crc=351839139" src="images/blank.gif?crc=4208392903" alt="" data-width="1468" data-height="768"/>
+       </div>
+       <div class="SSSlide invi clip_frame fullscreen" id="u307"><!-- image -->
+        <img class="ImageInclude" id="u307_img" data-src="images/247p20170523arsenal%20vs%20chelsea(fa%20cup%20final).jpg?crc=138782151" src="images/blank.gif?crc=4208392903" alt="" data-width="1468" data-height="768"/>
+       </div>
+       <div class="SSSlide invi clip_frame fullscreen" id="u333"><!-- image -->
+        <img class="ImageInclude" id="u333_img" data-src="images/247p20170524(bacavsdeportivo%20for%20may28%20copa%20del%20rey).jpg?crc=4123562503" src="images/blank.gif?crc=4208392903" alt="" data-width="1468" data-height="768"/>
+       </div>
+       <div class="SSSlide invi clip_frame fullscreen" id="u359"><!-- image -->
+        <img class="ImageInclude" id="u359_img" data-src="images/247p20170525(romavsgeona%20match%20for%2028052017).jpg?crc=4001798688" src="images/blank.gif?crc=4208392903" alt="" data-width="1468" data-height="768"/>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u137-4popup">
+      <div class="SSPreviousButton clearfix" id="u137-4"><!-- content -->
+       <p><span id="u137">&lt;</span></p>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u113-4popup">
+      <div class="SSNextButton clearfix" id="u113-4"><!-- content -->
+       <p>&gt;</p>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u121-4popup">
+      <div class="SlideShowLabel SSSlideCount clearfix" id="u121-4"><!-- content -->
+       <p><span id="u121">6 - 6</span></p>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="SlideShowWidget clearfix widget_invisible grpelem" id="slideshowu385"><!-- none box -->
+    <div class="popup_anchor" id="u399popup">
+     <div class="SlideShowContentPanel rgba-background clearfix" id="u399"><!-- stack box -->
+      <div class="SSSlide clip_frame clearfix grpelem" id="u400"><!-- image -->
+       <img class="ImageInclude position_content" id="u400_img" data-src="images/247p20170522(costa%20rica%20vs%20portugalu20%20cup)701x367.jpg?crc=518523364" src="images/blank.gif?crc=4208392903" alt="" data-width="701" data-height="367"/>
+      </div>
+      <div class="SSSlide invi clip_frame clearfix grpelem" id="u402"><!-- image -->
+       <img class="ImageInclude position_content" id="u402_img" data-src="images/247p20170523arsenal%20vs%20chelsea(fa%20cup%20final)701x367.jpg?crc=4107382070" src="images/blank.gif?crc=4208392903" alt="" data-width="701" data-height="367"/>
+      </div>
+      <div class="SSSlide invi clip_frame clearfix grpelem" id="u404"><!-- image -->
+       <img class="ImageInclude position_content" id="u404_img" data-src="images/247p20170518(chivovsroma)701x367.jpg?crc=3825321539" src="images/blank.gif?crc=4208392903" alt="" data-width="701" data-height="367"/>
+      </div>
+     </div>
+    </div>
+    <div class="popup_anchor" id="u388popup">
+     <div class="SSSlideLinks clearfix" id="u388"><!-- horizontal-rows box -->
+      <div class="SSSlideLink clip_frame clearfix grpelem" id="u391"><!-- image -->
+       <img class="position_content" id="u391_img" src="images/247p20170522(costa%20rica%20vs%20portugalu20%20cup)68x36.jpg?crc=269036883" alt="" width="67" height="35"/>
+      </div>
+      <div class="SSSlideLink clip_frame clearfix grpelem" id="u393"><!-- image -->
+       <img class="position_content" id="u393_img" src="images/247p20170523arsenal%20vs%20chelsea(fa%20cup%20final)68x36.jpg?crc=409428855" alt="" width="67" height="35"/>
+      </div>
+      <div class="SSSlideLink clip_frame clearfix grpelem" id="u389"><!-- image -->
+       <img class="position_content" id="u389_img" src="images/247p20170518(chivovsroma)68x36.jpg?crc=214614476" alt="" width="67" height="35"/>
+      </div>
+     </div>
+    </div>
+    <div class="popup_anchor" id="u395popup">
+     <div class="SlideShowCaptionPanel clearfix" id="u395"><!-- stack box -->
+      <div class="SSSlideCaption clearfix grpelem" id="u396-4"><!-- content -->
+       <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div class="SSSlideCaption invi clearfix grpelem" id="u397-4"><!-- content -->
+       <p>Mauris sit amet tortor.</p>
+      </div>
+      <div class="SSSlideCaption invi clearfix grpelem" id="u398-4"><!-- content -->
+       <p>Ut eget felis sed velit congue.</p>
+      </div>
+     </div>
+    </div>
+    <div class="popup_anchor" id="u386-4popup">
+     <div class="SSPreviousButton clearfix" id="u386-4"><!-- content -->
+      <p>&lt;v</p>
+     </div>
+    </div>
+    <div class="popup_anchor" id="u408-4popup">
+     <div class="SSNextButton clearfix" id="u408-4"><!-- content -->
+      <p>&gt;</p>
+     </div>
+    </div>
+    <div class="popup_anchor" id="u409-4popup">
+     <div class="SlideShowLabel SSSlideCount clearfix" id="u409-4"><!-- content -->
+      <p>3 - 3</p>
+     </div>
+    </div>
+   </div>
+   <div class="verticalspacer" data-offset-top="357" data-content-above-spacer="768" data-content-below-spacer="410"></div>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
